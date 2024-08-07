@@ -1,3 +1,4 @@
+# Repositorio de ansible para su uso con docker
 
 # Construye la imagen de Docker:
 docker build -t my-ansible-image -f dockerfile-01 .
